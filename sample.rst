@@ -27,7 +27,6 @@
 .. role:: strike-gray
 .. role:: underline
 
-.. role:: redtext
 
 .. header:: rst2pdf sample
 .. footer::  － ###Page###/###Total### －
@@ -116,9 +115,9 @@ This font is :font-huge:`HUGE`.
 
 これは :underline:`下線`.
 
-これは :strike:`打ち消し線`.
+これは :strike:`取り消し線`.
 
-これは :strike-gray:`打ち消し線`.
+これは :strike-gray:`取り消し線`.
 
 |
 
