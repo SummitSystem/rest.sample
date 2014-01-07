@@ -1,0 +1,34 @@
+{
+  "styles" : [
+    ["font-tiny",  {"fontSize": "4"    }],
+    ["font-small", {"fontSize": "6"    }],
+    ["font-medium",{"fontSize": "10"   }],
+    ["font-large", {"fontSize": "14"   }],
+    ["font-huge",  {"fontSize": "24"   }],
+
+    ["text-white", {"textColor": "white" }],
+    ["text-black", {"textColor": "black" }],
+    ["text-red",   {"textColor": "red"   }],
+    ["text-green", {"textColor": "green" }],
+    ["text-blue" , {"textColor": "blue"  }],
+    ["text-yellow",{"textColor": "yellow"}],
+
+    ["back-black", {"backColor": "black" }],
+    ["back-red",   {"backColor": "red"   }],
+    ["back-green", {"backColor": "green" }],
+    ["back-blue",  {"backColor": "blue"  }],
+    ["back-yellow",{"backColor": "yellow"}],
+    ["back-cyan",  {"backColor": "cyan"}],
+
+    ["red-yellow",{"textColor": "red", "backColor": "yellow"}],
+    ["yellow-red",{"textColor": "yellow", "backColor": "red"}],
+    ["yellow-red-huge",{"parent": "yellow-red", "fontSize": "24" }],
+    ["blue-red-huge",{"textColor": "blue", "backColor": "red", "fontSize": "24"}],
+
+    ["strike",     {"strike": "true" }],
+    ["strike-gray",{"strike": "true", "textColor": "gray" }],
+    ["underline",  {"underline": "true"  }]
+  ]
+}
+
+
